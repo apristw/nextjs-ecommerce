@@ -6,7 +6,6 @@ import { useState } from "react";
 
 const Menu = () => {
   const [open, setOpen] = useState(false);
-  console.log(open);
 
   return (
     <div className="">
